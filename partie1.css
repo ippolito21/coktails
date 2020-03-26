@@ -1,0 +1,21 @@
+section{
+  padding:10px;
+  text-align:center;
+  font-size:27px;
+  font-color: white
+}
+
+.cocktails{
+  border:red solid;
+  background-color:green;
+  color:white;
+  padding:10px;
+}
+.martini{
+  color:red;
+  padding:10px;
+}
+
+footer{
+
+}
